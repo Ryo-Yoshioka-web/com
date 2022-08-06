@@ -1,5 +1,5 @@
 {
-  "name": "gulp-template",
+  "name": "com",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -43,5 +43,13 @@
     "gulp-jshint": "^2.1.0",
     "jshint": "^2.13.4"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryo-Yoshioka-web/com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ryo-Yoshioka-web/com/issues"
+  },
+  "homepage": "https://github.com/Ryo-Yoshioka-web/com#readme",
   "description": ""
 }
